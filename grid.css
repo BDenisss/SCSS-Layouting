@@ -33,7 +33,7 @@ p{
 }
 
 div:nth-child(1){
-    background-color: aquamarine;
+    background-color: rgb(33, 35, 34);
 }
 div:nth-child(2){
     background-color: rgb(127, 255, 180);
